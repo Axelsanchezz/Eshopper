@@ -1,9 +1,0 @@
-1, Blusa,100,Damas
-2, Lentes,380,Caballeros
-3, Playera Azul,250,Caballeros
-4, Blusa Ligera,100,Damas
-5, Vestido,450,Damas
-6, Saco cafe,300,Caballero
-7, Camisa Azul,80,Caballeros
-8, Botas,550,Caballero
-9, Gorro Prada,1200,Caballeros
